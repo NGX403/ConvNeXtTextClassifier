@@ -5,4 +5,4 @@
 
 ### 网络结构
 
-![image-20250101161831550](C:\Users\86188\AppData\Roaming\Typora\typora-user-images\image-20250101161831550.png)
+![image-20250101161831550](net.png)
